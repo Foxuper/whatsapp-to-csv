@@ -1,0 +1,16 @@
+{
+	"manifest_version": 3,
+	"name": "WhatsApp CSV Exporter",
+	"description": "Export all WhatsApp contacts to CSV",
+	"version": "1.0",
+	"action": {
+		"default_popup": "index.html"
+	},
+	"permissions": [
+		"scripting",
+		"activeTab"
+	],
+	"icons": {
+		"128": "icon.png"
+	}
+}
